@@ -8,10 +8,12 @@
 
 - 🌱 I’m currently learning **Dutch, Kubernetes & cloud deployment strategies, Advanced Spring Boot patterns**
 
-- 👯 I’m looking to collaborate on **Backend or full-stack Java / Spring Boot projects**
-
+- 👯 I’m looking to collaborate on **Backend or full-stack Java / Spring Boot projects*
+  
+- My other personnal project are there **https://gitlab.com/amandadjeunnang**
+  
 - 💬 Ask me about **Java & Spring Boot,**
-
+  
 - 📫 How to reach me **amandadjeunnang@gmail.com**
 
 - ⚡ Fun fact **I think I am funny 😄 — and I genuinely enjoy turning complex problems into clean, simple solutions.**
